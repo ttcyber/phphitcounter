@@ -20,7 +20,6 @@ CREATE TABLE IF NOT EXISTS `hits` (
 
 Place this code on top of your index.php page:
 
-Place this on the top of your index page.
 
 <?php
 session_start();
