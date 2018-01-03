@@ -1,4 +1,5 @@
 # phphitcounter
+<pre>
 This code is for testing puposes only.
 Do not use this code as a certified hit counter.
 
@@ -26,3 +27,5 @@ session_start();
 $_SESSION['pagename'] = "zulu index";
 include "db/pushhits.php";
 ?>
+
+</pre>
